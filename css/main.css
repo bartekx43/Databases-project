@@ -1,0 +1,18 @@
+body {background-color: lightgray; }
+.main { font-size: x-large; font-weight: bold; color: navy; margin: 20px; text-align:center }
+header { font-size: large; font-weight: bold; color: navy; margin: 20px; text-align:center }
+
+a {text-align: center;}
+nav { border: solid 5px blue; background-color: lightblue; border-radius: 10px; margin: 10px; padding: 15px; float:left;  }
+nav a { display: inline-block; background-color: lightgray; border: solid 2px blue; border-radius: 5px; text-align: center; padding: 2px; margin: 2px; width: 120px;}
+nav p { color: navy; text-align: center;}
+section { display:block; float:left; margin-left: 50px; width: 600px; color:navy; }
+section header { font-weight: bold;  text-align:center; }
+section h1 { color:#000080; font-size:12pt; text-align:center }
+section h2 { color:blue; font-size:12pt; text-align:center}
+ 
+footer { position: absolute; bottom:10px; left:80%; text-align:center; color:blue }
+ 
+dt { font-weight: bold; }
+dd { font-style: italic; }
+
